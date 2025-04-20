@@ -35,7 +35,7 @@ A modern, elegant, and responsive website for QuirkLabs software development com
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/quirklabs.git
+git clone https://github.com/MMXV16/quirklabs.git
 cd quirklabs
 ```
 
